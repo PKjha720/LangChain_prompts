@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+myvenv/
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+*.env
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Models / data (optional - adjust)
+data/
+models/
+*.pt
+*.bin
+
+# Jupyter
+.ipynb_checkpoints/
