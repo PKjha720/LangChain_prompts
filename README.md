@@ -1,4 +1,4 @@
-```md
+
 # LangChain Prompts (Revision Notes) — from YouTube transcript
 
 ## What this video covers (recap)
